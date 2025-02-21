@@ -1,0 +1,6 @@
+{
+  "output": "build/liferay-angular-portlet",
+  "exports": {
+    "main": "dist/liferay-angular-portlet/main.js"
+  }
+}
