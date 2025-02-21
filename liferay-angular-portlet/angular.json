@@ -19,7 +19,6 @@
           "options": {
             "outputPath": "dist/liferay-angular-portlet",
             "index": "src/index.html",
-            "baseHref": "./",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
@@ -106,6 +105,6 @@
     }
   },
   "cli": {
-    "analytics": "2874da70-04cc-47ae-b4d0-bfa08d541ebd"
+    "analytics": "1ddf6173-c833-402f-b795-8d0cb0e265c3"
   }
 }
